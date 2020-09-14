@@ -1,4 +1,2 @@
-server:
-  port: 8006
 config:
   info: 123
